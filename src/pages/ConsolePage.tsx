@@ -321,7 +321,6 @@ export function ConsolePage() {
     }
     setCanPushToTalk(value === 'none');
   };
-  */
 
   /*****
    * Auto-scroll the event logs
@@ -561,7 +560,6 @@ export function ConsolePage() {
         <div className="content-center">
           {/* Simli Avatar Display */}
           <div className="content-avatar">
-            <img src="simli_small_logo.jpg" />
             <div className="content-block-title"></div>
             <div className="content-avatar-body">
               <video
